@@ -13,7 +13,7 @@ I'm **CicerBro**, the coding wizard, the legend of legends, the best thing since
 ## Skills
 
 - **Languages:** PHP, JavaScript, TypeScript, Python, Go, Rust
-- **Frameworks:** Laravel, Node.js, Bun\
+- **Frameworks:** Laravel, Node.js, Bun
 
 ## Epic Stats
 
