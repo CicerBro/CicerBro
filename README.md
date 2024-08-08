@@ -17,7 +17,7 @@ I'm **CicerBro**, the coding wizard, the legend of legends, the best thing since
 
 ## Epic Stats
 
-![CicerBro's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=CicerBro&show_icons=true&theme=material-palenight&show=reviews,discussions_started,discussions_answered,prs_merged](https://github-readme-stats.vercel.app/api?username=CicerBro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&theme=transparent))
+![CicerBro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CicerBro&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&theme=transparent)
 
 ## Wise Words
 
